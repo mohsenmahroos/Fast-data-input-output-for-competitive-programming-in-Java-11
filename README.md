@@ -1,0 +1,1 @@
+# Fast-data-input-output-for-competitive-programming-in-Java-11
